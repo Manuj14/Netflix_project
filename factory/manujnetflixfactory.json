@@ -1,0 +1,16 @@
+{
+	"name": "manujnetflixfactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9a097bfe-9209-428d-8f49-01bc9dda64e9",
+		"tenantId": "35dcf895-b9ba-4190-8d24-132fd532be63"
+	}
+}
